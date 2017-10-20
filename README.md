@@ -6,4 +6,4 @@ This is a repository of presentations, notes, resources from Bioinformatics Jour
 | Meeting Title                                | Date | Time |
 |----------------------------------------------|------|------|
 | Bioinformatics Journal Club Interest Meeting | TBD  | TBD  |
-|                                              |      |      |
+<!-- |                                              |      |      | -->
