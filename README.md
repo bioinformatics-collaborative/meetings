@@ -1,5 +1,5 @@
 ## Meeting w/ Edgar about club creation
-_Date: October 20th, 2017
+_Date: October 20th, 2017  
 Time: 12 pm_
 
 Rob Gilmore and Shaurita Hutchins met with Edgar Meyer to discuss the intricacies of forming a club or group at UMMC. His advice is below.
