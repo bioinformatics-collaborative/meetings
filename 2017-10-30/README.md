@@ -1,6 +1,6 @@
 ## Meeting w/ Lavanya about club topics and members
-_Date: October 30th, 2017
-Time: q0 am_
+_Date: October 30th, 2017  
+Time: 10 am_
 
 Rob Gilmore and Shaurita Hutchins met with Lavanya Challagundla.
 
