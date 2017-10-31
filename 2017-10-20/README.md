@@ -19,7 +19,7 @@ Currently, we'd like to do both but start with the small group sessions.
     - [ ] [Dr. Michael Griswold](mailto:mgriswold@umc.edu)
     - [ ] Other?
 - [ ] Contact the webmaster to get our group on the website
-    - [ ] Kerry Marshall
+    - [ ] [Kerry Marshall](mailto:kamarshall@umc.edu)
 - [ ] Contact [Jayson Triplett](mailto:jtriplett@umc.edu) about graphic design for a logo as well as flyers
     - [ ] Create a logo based on current one
     - [ ] Create a flyer for the interest meeting
