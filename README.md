@@ -6,7 +6,7 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 
 ### List of meetings
 
-| Meeting Title                                | Date | Time |
-|----------------------------------------------|------|------|
-| [Bioinformatics Journal Club Interest Meeting]() | TBD  | TBD  |
-<!-- |                                              |      |      | -->
+| Meeting Title                                     | Date              | Time | Location        |
+|---------------------------------------------------|-------------------|------|-----------------|
+| [Bioinformatics Collaborative Interest Meeting]() | February 6, 2018  | 12 pm|                 |
+<!-- |                                              |      |      |     | -->
