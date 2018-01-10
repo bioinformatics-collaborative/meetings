@@ -20,5 +20,3 @@ We changed the name of to `UMMC Bioinformatics Collaborative` and decided that t
     - [ ] Recruit Ben to speak on March 6th of 2018
 - [ ] Miscellaneous Tasks
     - [ ] Complete tasks by January 23rd
-    - [ ] Recruit Ben to speak on March 6th of 2018
-  
