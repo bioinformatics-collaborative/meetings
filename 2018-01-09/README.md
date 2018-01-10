@@ -10,7 +10,9 @@ We changed the name of to `UMMC Bioinformatics Collaborative` and decided that t
 - [ ] Rob's Tasks
     - [ ] Find food for the meeting via Dr. Hester and/or Dr. Vallender
     - [ ] Start powerpoint for meeting
-    - [ ] Open Bioinformatics Foundation
+    - [ ] Umbrella Organizations
+        - [ ] Open Bioinformatics Foundation?
+        - [ ] MidSouth Computational Biology and Bioinformatics Society
 - [ ] Shaurita's Tasks
     - [ ] Follow-up with Jayson on Infographic/Logo & get flyers up and out
     - [ ] Contact other universities such as Millsaps, Belhaven, MC, JSU about their interest
