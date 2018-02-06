@@ -1,0 +1,45 @@
+---
+title: ""
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#### To-Do list for setting up the Bioinformatics Journal Club
+- [ ] Contact the webmaster to get our group on the website
+    - [ ] Kerry Marshall - kamarshall@umc.edu
+- [ ] Contact Jayson Triplett - jtriplett@umc.edu about graphic design for a logo as well as flyers
+    - [ ] Create a logo based on current one
+    - [ ] Create a flyer for the interest meeting
+	- [ ] Ask for a .jpeg image for the background screen/scroller when we hold the first seminar
+        - Jayson will provide a .tiff file to make copying into documents easy
+- [ ] Organize an interest meeting
+    - [ ] Invite a small group to discuss the mission and goals of the journal club.
+- [ ] Create an outlook group to invite people to our discussion forums - *remind weekly or 15 min before meetings*
+    - [ ] Email various department chairs to spread meeting information
+    - [ ] Small group at first
+    - [ ] Recruit a few people from other labs
+
+#### Holding a seminar for the Bioinformatics Journal Club
+1. Recruit people (internal or external) to present & decide on seminar topics
+	- Ask advisors for suggestions
+	- Create catchy names for the seminars
+	- Ben Pharr - bnpharr@olemiss.edu - Interim Director of the MCSR
+	- Seminar about HIPPA compliance in regards to data science and working with data
+        - Contact Amanitare Bailey - azbailey@umc.edu - Center for Bioethics and Medical Humanities
+            - They have a ton of funding.
+2. Find a funding source in order to provide food to increase turnout for seminars
+    - Ask Department Heads like Dr. Hester, Dr. Stockmeier, and Dr. Griswold about funding
+    - Contact Dr. Natalie Gaughf - nwgaughf1@umc.edu about funding
+    - Try to avoid pizza; consider Schlotzsky's and other places that deliver.
+3. Contact Leigh A Massey - lmassey@umc.edu about reserving a room for a seminar - **refer to her as Mrs. Wallace**
+    - Check the UMMC calendar to ensure there isn't too much going on
+    - Find a time that doesn't conflict with other department meetings
+    - Attempt to reserve R153, R354, 3A, 6A (in that order)
+4. Contact Bruce Coleman - bcoleman@umc.edu about using the logo/flyer for the seminar on the scrolling screen saver
+5. Create another outlook group for people who may be interested in the seminars.
+6. Contact Dr. Jerry Clark - jclark@umc.edu about sending campus-wide emails
+    - He will attach our names to the email as well as the flyer.
+7. Create evaluation forms for the first seminar.
+    - Monitor attendance of seminar(s)
