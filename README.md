@@ -14,4 +14,5 @@ Each meeting is in a folder labeled by the date of the meeting. Below is a list 
 | [Dr. William S. Sanders Seminar](https://github.com/ummc-bc/meetings/tree/master/2018-03-28) | March 28, 2018 | 1 pm| CW106  |
 | [Dr. Hung-Chung (Joe) Huang Seminar](https://github.com/ummc-bc/meetings/tree/master/2019-03-26) | March 26, 2019 | 1 pm| N318 (3A)  |
 | [Dr. Eric J. Vallender](https://github.com/ummc-bc/meetings/tree/master/2019-06-25) | June 25, 2019 | 12 pm| R153  |
+| [Journal Club #1](https://github.com/ummc-bc/meetings/tree/master/2019-08-29) | August 29, 2019 | 11 am| TR412  |
 <!-- |                                              |      |      |     | -->
